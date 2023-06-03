@@ -1,3 +1,5 @@
+![image](https://github.com/YahairaPerez1994/YahairaPerez1994/assets/124813555/61a87933-9d61-4517-afdb-3954db2315d6)
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2CB47A&background=1A28FF00&width=450&height=60&lines=Hello%2C+There!+👋;This+is+Yahaira+Perez...;Nice+to+meet+you!&center=true&size=30" /></a>
 </h1>
