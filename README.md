@@ -1,4 +1,48 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2CB47A&background=1A28FF00&width=450&height=60&lines=Hello%2C+There!+;This+is+Yahaira+Perez...;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</h1>
 
+<h2 align="center">
+## 🌐 Socials:
+<a[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yahaira_perez19/)</a>
+<a[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yahaira-perez/)</a>
+ </h2>
+ 
+<br>
+<p align="center">
+# 💫 About Me:
+ Hi, I'm Yahaira Perez, front-end developer.
+  <br>
+  <br>
+  🎓I'm an Environmental Engineer.
+  <br>
+  📚 I'm currently working as a web developer and I'm interested to keep growing in the tech world.
+  <br>
+  💻 I love writing code and learning anything about it.
+  <br>
+  📚 I am committed to keep learning and developing myself in this constantly evolving field.
+  <br>
+  ✉️ How to reach me: <a href="mailto: yahairaperez2694@gmail.com">yahairaperez2694@gmail.com</a>
+</p>
+<hr>
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</hr>
+
+<h4 align="center">⚡ Stats ⚡</h4>
+<br>
+![](https://github-readme-stats.vercel.app/api?username=YahairaPerez1994&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YahairaPerez1994&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahairaPerez1994&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=YahairaPerez1994&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
