@@ -1,9 +1,9 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2CB47A&background=1A28FF00&width=450&height=60&lines=Hello%2C+There!+👋;This+is+Yahaira+Perez...;Nice+to+meet+you!&center=true&size=30" /></a>
 </h1>
-<h5 align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yahaira_perez19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yahaira-perez/) 
-</h5>
+
 <br>
 <p align="center">
  Hi, I'm Yahaira Perez, front-end developer. <br><br> 🎓I'm an Environmental Engineer.<br>📚 I'm currently working as a web developer and I'm interested to keep growing in the tech world.<br>💻 I love writing code and learning anything about it.<br>📚 I am committed to keep learning and developing myself in this constantly evolving field.<br>✉️ You can contact me at yahairaperez2694@gmail.com<br>
